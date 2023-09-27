@@ -14,7 +14,7 @@
 <a href="https://codesandbox.com/vivekchauhan_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vivekchauhan_01" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="haiderali.naam@gmail.com" height="30" width="40" /></a>
 <a href="https://instagram.com/vivek_chauhan_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivek_chauhan_01" height="30" width="40" /></a>
-<a href="https://discord.gg/vivekchauhan_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vivekchauhan_01" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vivekchauhan_01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
