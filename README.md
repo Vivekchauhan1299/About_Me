@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vivek-chauhan-a058a7256/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek chauhan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/vivekchauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vivekchauhan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22627948/vivekchauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vivekchauhan" height="30" width="40" /></a>
 <a href="https://codesandbox.com/vivekchauhan_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vivekchauhan_01" height="30" width="40" /></a>
 <a href="https://kaggle.com/haiderali.naam@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="haiderali.naam@gmail.com" height="30" width="40" /></a>
 <a href="https://instagram.com/vivek_chauhan_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivek_chauhan_01" height="30" width="40" /></a>
